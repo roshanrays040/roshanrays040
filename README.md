@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roshanrays040
+- 👋 Hi, I’m Roshan Thapa.
 - 👀 I’m interested in Machine Learning, NLP.
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on NLP.
